@@ -1,0 +1,46 @@
+# Site settings
+title: Becoming Swift
+description: Run, Travel, Code
+logo: site-logo.jpg
+disqus_shortname: becomingswift
+search: true
+#url: http://localhost:4000
+url: http://timvinc.github.io
+# Owner/author information
+owner:
+  name:           Timothy Vincent
+  avatar:         your-photo.jpg
+  email:          tim.vinc@gmail.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: timvinc
+  facebook:
+  github:
+  linkedin:
+  instagram:
+  tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  #google_plus:    "http://plus.google.com/123123123123132123"
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about/
+  - title: Blog
+    url: /blog/
+#  - title: Google
+#    url: http://google.com
+#    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Seattle
+highlighter:    pygments
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
