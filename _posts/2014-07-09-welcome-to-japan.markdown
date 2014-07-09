@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to Japan!"
 date:   2014-06-23 15:25:23
+author:  tim
 categories: travel japan day-one
 ---
 

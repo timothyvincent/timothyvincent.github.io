@@ -9,7 +9,7 @@ url: http://timothyvincent.github.io
 #url: http://www.timvinc.com
 # Owner/author information
 owner:
-  name:           Timothy Vincent
+  name:           Timothy and Camille
   avatar:         your-photo.jpg
   email:          tim.vinc@gmail.com
   # Social networking links used in footer. Update and remove as you like.
@@ -19,6 +19,16 @@ owner:
   linkedin:
   instagram:
   tumblr:
+
+
+authors:
+  cami:
+    name:  Camille Martin
+    avatar: cami.png
+  tim:
+    name: Timothy Vincent
+    avatar: tim.png
+
   # For Google Authorship https://plus.google.com/authorship
   #google_plus:    "http://plus.google.com/123123123123132123"
 # Analytics and webmaster tools stuff goes here
