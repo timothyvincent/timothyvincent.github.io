@@ -6,6 +6,7 @@ author:  tim
 categories: travel japan day-one
 ---
 
+
 Today is our first day in Japan.  Our body clocks are predictably broken, but we're feeling pretty good.  Pulling Cami away from Koda wasn't as difficult as I'd expected, thanks mostly to knowing that he'll be in good hands with Geoff.
 
 We had a mostly uneventful flight, though we were informed as we were boarding that Delta would not have the vegetarian non-dairy meals Cami called in to request.  I brought food, knowing that I would probably not be able to eat much of anything they served, but we'd expected Cami would at least be able to eat a meal on the flight.
