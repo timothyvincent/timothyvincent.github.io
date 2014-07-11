@@ -40,19 +40,19 @@ After walking down a “Shopping Street” full of shops and food, we explored T
 
 ![shrine]({{ site.url }}/images/shrinecamipure.png)
 
-![shrine]({{ site.url }}/images/shrine4890.jpg)
+![shrine]({{ site.url }}/images/IMG_4890.png)
 
-![shrine]({{ site.url }}/images/shrine4893.jpg)
+![shrine]({{ site.url }}/images/IMG_4893.png)
 
-![shrine]({{ site.url }}/images/shrine4900.jpg)
+![shrine]({{ site.url }}/images/IMG_4900.png)
 
-![shrine]({{ site.url }}/images/shrine4904.jpg)
+![shrine]({{ site.url }}/images/IMG_4904.png)
 
-![shrine]({{ site.url }}/images/shrine4907.jpg)
+![shrine]({{ site.url }}/images/IMG_4907.png)
 
-![shrine]({{ site.url }}/images/shrine4924.jpg)
+![shrine]({{ site.url }}/images/IMG_4924.png)
 
-![shrine]({{ site.url }}/images/shrine4927.jpg)
+![shrine]({{ site.url }}/images/IMG_4927.png)
 
 We then headed back through the shopping street where I had some mango juice and a purple sweet potato flavored Kintsuba (Japanese sweet)
 
