@@ -31,6 +31,8 @@ By the time we got to Kyoto and checked into our hotel we still had some of the 
 
 ![kyoto tower]({{ site.url }}/images/IMG_5091.png)
 
+![toji temple]({{ site.url }}/images/cami-pagoda.png)
+
 We then visited Kyoto Tower, where we could get a birdseye view of the city. This included a view of Toji Temple.
 
 ![kyoto tower]({{ site.url }}/images/IMG_5098.png)
