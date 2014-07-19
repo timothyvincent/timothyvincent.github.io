@@ -4,6 +4,7 @@ title:  "Kyoto Day 1"
 date:   2014-07-18 22:24:00
 author:  cami
 categories: travel japan kyoto day1
+comments: true
 ---
 __7/11  Kyoto Day 1__
 

@@ -4,6 +4,7 @@ title:  "Yokohama and Kamakura"
 date:   2014-07-10 20:00:00
 author:  cami
 categories: travel japan yokohama-and-kamakura
+comments: true
 ---
 
 __7/9__
